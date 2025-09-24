@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @annaloggg
-
-<!---
-annaloggg/annaloggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi:) I’m @annaloggg
+I'm a recent Computer Science grad looking for my first full-time position
+I'm interested in frontend/fullstack development and my current weapon of choice is React!
